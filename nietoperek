@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>nietoperek z banankiem</h1>
+
+    <div class="left">
+    <ol>
+        <li><a href="">nietoperek z banankiem</a></li>
+        <li><a href="">nietoperek z banankiem</a>
+            <ol>
+                <li><a href="">nietoperek z banankiem</a></li>
+                <li><a href="">nietoperek z banankiem</a></li>
+            </ol>
+        </li>
+        <li><a href="">nietoperek z banankiem</a></li>
+        <li><a href="">nietoperek z banankiem</a>
+            <ol>
+                <li><a href="">nietoperek z banankiem</a></li>
+                <li><a href="">nietoperek z banankiem</a></li>
+            </ol>
+        </li>
+    </ol>
+    </div>
+
+    <div class="right">
+        <img src="1.jpg" alt="">
+        <img src="2.jpg" alt="">
+        <img src="3.jpg" alt="">
+    </div>
+    
+    <div class="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt justo non pharetra elementum. Maecenas mollis auctor aliquet. Duis non metus ligula. Ut sed mauris augue. Cras ultrices congue ante, id ornare quam finibus eu. Nunc luctus fermentum interdum. Sed pharetra nisi ac leo euismod semper. Cras porta congue magna, a blandit elit porta vel. Donec et tincidunt nunc, non rhoncus eros. Morbi lorem lorem, sollicitudin in lectus id, posuere convallis quam. Integer vel purus eget purus rutrum fringilla at a ante. Aliquam erat volutpat. Maecenas ullamcorper feugiat orci, a imperdiet turpis volutpat quis. In hac habitasse platea dictumst</div>
+
+</body>
+</html>
